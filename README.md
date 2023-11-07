@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/farhangarab/farhangarab/commit/a20eaec18813bdd6bcc68988604495650a224651)
+![MasterHead](https://github.com/farhangarab/farhangarab/commit/a20eaec18813bdd6bcc68988604495650a224651)
 <h1 align="center">Hi 👋, I'm Farhang Arab</h1>
 <h3 align="center">A passionate full-stack developer from Afghanistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">

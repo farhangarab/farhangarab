@@ -1,4 +1,4 @@
-![Development](https://raw.githubusercontent.com/farhangarab/farhangarab/main/FULL-STACK-DEVELOPER.png)
+![Development](https://github.com/farhangarab/farhangarab/blob/main/doc_2023-11-08_15-21-49.mp4)
 <h1 align="center">Hi 👋, I'm Farhang Arab</h1>
 <h3 align="center">A passionate full-stack developer from Afghanistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">

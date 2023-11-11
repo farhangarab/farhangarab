@@ -1,5 +1,5 @@
 
-![Development](https://github.com/farhangarab/farhangarab/blob/main/full%20stack%20development%20(online-video-cutter.com).mp4)
+![Development](https://github.com/farhangarab/farhangarab/blob/main/FULL-STACK-DEVELOPER.png)
 
 <h1 align="center">Hi 👋, I'm Farhang Arab</h1>
 <h3 align="center">A passionate full-stack developer from Afghanistan</h3>

@@ -1,8 +1,8 @@
 
 ![Development](https://github.com/farhangarab/farhangarab/blob/main/FULL-STACK-DEVELOPER.png)
 
-<h1 align="center">Hi 👋, I'm Farhang Arab</h1>
-<h3 align="center">A passionate full-stack developer from Afghanistan</h3>
+<h1 align="center">Hi 👋, I'm Farhang Arab Zada</h1>
+<h3 align="center">A passionate Backend Developer | Aspiring AI Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
@@ -10,11 +10,11 @@
 
 
 # 💫 About Me:
-🔭 I'm currently working on Accountant System <br>👨🏽‍🤝‍👨🏽 I'm looking to collaborate with your projects.<br>🧾 Ask me About nestjs, react, TS, JS, flutter<br>📫 How to reach me farhangarab123@gmail.com
+🔭 I'm currently working on Accountant System <br>👨🏽‍🤝‍👨🏽 I'm looking to collaborate with your projects.<br>🧾 Ask me About nestjs, AI, TS, and python<br>📫 How to reach me farhangarab123@gmail.com
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/farhangarab/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farhang-arab/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/home) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/farhangarab7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farhang7/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/home) 
 
 # 💻 Tech Stack:
 

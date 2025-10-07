@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-🔭 I'm currently working on Accountant System <br>👨🏽‍🤝‍👨🏽 I'm looking to collaborate with your projects.<br>🧾 Ask me About nestjs, AI, TS, and python<br>📫 How to reach me farhangarab123@gmail.com
+🔭 I'm currently learning Python & ML <br>👨🏽‍🤝‍👨🏽 I'm looking to collaborate with your projects.<br>🧾 Ask me About Nestjs, TS, Python and Machine Learning<br>📫 How to reach me farhangarab123@gmail.com
 
 
 ## 🌐 Socials:

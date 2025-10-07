@@ -1,5 +1,5 @@
 
-![Development](https://github.com/farhangarab/farhangarab/blob/main/FULL-STACK-DEVELOPER.png)
+![Development](https://github.com/farhangarab/farhangarab/blob/main/github-header-banner.png)
 
 <h1 align="center">Hi 👋, I'm Farhang Arab Zada</h1>
 <h3 align="center">A passionate Backend Developer | Aspiring AI Engineer</h3>

@@ -61,7 +61,7 @@
 </p>
 
 # 📊 GitHub Stats:
-![Farhang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhangarab&theme=dark)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=farhangarab&theme=hacker-inverted" alt="GitHub Streak" /></a>
 
 
 

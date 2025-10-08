@@ -61,8 +61,8 @@
 </p>
 
 # 📊 GitHub Stats:
+![Streak Stats](https://your-app-name.vercel.app/?user=your-username)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhangarab&" alt="farhangarab" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

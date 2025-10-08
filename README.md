@@ -61,7 +61,7 @@
 </p>
 
 # 📊 GitHub Stats:
-![Streak Stats](https://your-app-name.vercel.app/?user=your-username)
+![Farhang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farhangarab&theme=dark)
 
 
 

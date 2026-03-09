@@ -49,11 +49,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://www.sympy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sympy_logo.svg" alt="sympy" width="40" height="40"/>
-  </a>
-
-
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+</a>
 
 </p>
 
